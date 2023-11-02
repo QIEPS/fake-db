@@ -3,7 +3,7 @@
     {
       "key": "number-of-leads-per-month",
       "email": "test@mail.ru",
-      "date": '2023-05-23T14:25:10', 
+      "date": "2023-05-23T14:25:10", 
       "data": {
         "value": 12, "plan": 50
       } 
