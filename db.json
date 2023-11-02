@@ -1,23 +1,23 @@
 {
   "metriks": [
     {
-      "key": 'number-of-leads-per-month',
-      "email": 'test@mail.ru',
+      "key": "number-of-leads-per-month",
+      "email": "test@mail.ru",
       "date": '2023-05-23T14:25:10', 
       "data": {
         "value": 12, "plan": 50
       } 
     },    {
-      "key": 'completed',
-      "email": 'test1@mail.ru',
-      "date": '2004-05-23T14:25:10', 
+      "key": "completed",
+      "email": "test1@mail.ru",
+      "date": "2004-05-23T14:25:10", 
       "data": {
         "value": 12, "plan": 50
       } 
     },    {
-      "id": '6d4a82de-9604-46e9-99a5-604339f41cab',
-      "email": 'test2@mail.ru',
-      "date": '2004-05-23T14:25:10', 
+      "id": "6d4a82de-9604-46e9-99a5-604339f41cab",
+      "email": "test2@mail.ru",
+      "date": "2004-05-23T14:25:10", 
       "data": {
         "value": 12, "plan": 50
       } 
