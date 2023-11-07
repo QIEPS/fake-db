@@ -1,10 +1,34 @@
 {
   "metriks": [{
-      "id": "29454f15-9b36-4ac9-9e37-31ebfe1b7c90",
+      "id": "39454f15-9b36-4ac9-9e37-31ebfe1b7c90",
       "email": "test2@mail.ru",
-      "date": "2004-05-23T14:25:10", 
+      "time": "2004-05-23T14:25:10", 
       "data": {
-        "value": 12, "plan": 50
+        "value": 10, "plan": 50
+      } 
+    },
+    {
+      "id": "39454f15-9b36-4ac9-9e37-31ebfe1b7c90",
+      "email": "test2@mail.ru",
+      "time": "2004-05-23T14:25:10", 
+      "data": {
+        "value": 20, "plan": 50
+      } 
+    },
+    {
+      "id": "39454f15-9b36-4ac9-9e37-31ebfe1b7c90",
+      "email": "test2@mail.ru",
+      "time": "2004-05-23T14:25:10", 
+      "data": {
+        "value": 30, "plan": 50
+      } 
+    },
+    {
+      "id": "39454f15-9b36-4ac9-9e37-31ebfe1b7c90",
+      "email": "test2@mail.ru",
+      "time": "2004-05-23T14:25:10", 
+      "data": {
+        "value": 40, "plan": 50
       } 
     }
   ]
