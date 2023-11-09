@@ -45,9 +45,16 @@
     },{
       "key": "start-in-month",
       "email": "o.maksimova@rowi.com",
-      "time": "2023-06-08T14:25:10",
+      "time": "2023-07-08T14:25:10",
       "data": {
         "value": 3, "plan": 3
+      } 
+    },{
+      "key": "start-in-month",
+      "email": "o.maksimova@rowi.com",
+      "time": "2023-06-08T14:25:10",
+      "data": {
+        "value": 1, "plan": 3
       } 
     },
     {
