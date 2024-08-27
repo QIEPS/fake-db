@@ -1,4 +1,14 @@
 {
+  "identify": {
+    "type": "identify",
+    "expireAt": 1723809196918,
+    "token": "6d7acbaabd6112956e48780118871d93e486835fa5c17"
+  },
+  "verify": {
+    "type": "auth",
+    "expireAt": 1723895440878,
+    "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjdXN0b21lckl..."
+  },
   "products": [
     {
       "id": 1,
