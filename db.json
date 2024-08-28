@@ -102,7 +102,8 @@
       "options": {
         "hit": false
       }
-    },{
+    },
+    {
       "id": 6,
       "name": "Kaspersky Standart (6)",
       "description": "Базовая защита на 3 устройства",
@@ -115,6 +116,5 @@
         "hit": false
       }
     }
-  
   ]
 }
