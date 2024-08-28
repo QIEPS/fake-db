@@ -1,12 +1,12 @@
 {
   "identify": {
     "type": "identify",
-    "expireAt": 1723809196918,
+    "expireAt": 1727121600000,
     "token": "6d7acbaabd6112956e48780118871d93e486835fa5c17"
   },
   "verify": {
     "type": "auth",
-    "expireAt": 1723895440878,
+    "expireAt": 1727121600000,
     "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjdXN0b21lckl..."
   },
   "subscriptions": [
