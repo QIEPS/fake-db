@@ -9,6 +9,34 @@
     "expireAt": 1723895440878,
     "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjdXN0b21lckl..."
   },
+  "subscriptions": [
+    {
+      "id": "ID подписки",
+      "name": "Kaspersky Standart 1",
+      "price": 179,
+      "currency": "RUB",
+      "billingPeriod": "30 day",
+      "trialPeriod": "0 day",
+      "endTime": "2024-08-16T13:10:05.067Z",
+      "status": "pending",
+      "artifacts": {
+        "ActivationCode": "QWER-REWQ-QWER-REWQ",
+      }
+    },
+    {
+      "id": "ID подписки",
+      "name": "Kaspersky Standart 2",
+      "price": 339,
+      "currency": "RUB",
+      "billingPeriod": "30 day",
+      "trialPeriod": "0 day",
+      "endTime": "2025-08-16T13:10:05.067Z",
+      "status": "pending",
+      "artifacts": {
+        "ActivationCode": "1234-4321-1234-4321",
+      }
+    }
+  ],
   "products": [
     {
       "id": 1,
